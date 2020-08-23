@@ -4,4 +4,3 @@
 #### A few adjustments can be easily followed. 
 #### The projects cut across multiple languages 
 #### A lot of work goes into developing, server side.
-#### This is where the story ends
